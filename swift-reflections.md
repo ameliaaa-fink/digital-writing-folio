@@ -17,3 +17,16 @@ these (I assume) intentional feelings of frustration, isolation, and the illusio
 Immediately, this class is not what I expected, but I wouldn't say this is a bad thing. I'm pleasantly surprised and actually quite 
 excited. I've never coded before, so my priority is definitely in learning and improving in this aspect. I hope to give myself a challenge 
 in this way, and to open up opportunities for expanding my practice. 
+
+# Week 2: Swift Reflections 
+
+## Wed (11/03/26)
+### What defines the ‘Three Generations’ of E-Lit that Flores refers to?
+.
+
+## Thurs(12/03/26)
+### 1. In terms of AI and ethics, consider where your own boundaries are in terms of what is unacceptable or acceptable use of AI. What do you see as potential ethical use-cases of AI (e.g., for research, for furthering open-source knowledge, for testing new areas of learning)? 
+There is a general feeling of discomfort that surfaces whenever I am asked to reflect on, discuss, or actually use AI. I've watched over the last few years as Generative AI has rapidly advanced from something anyone could easily detect, point out, and make fun of. Three years ago, images, art, and writing produced by ChatGPT was a joke. Something to mess around with. Now, only three years later, there is far more concern attached to the topic. I genuinely have to consider how successful my careeer as an artist, a writer can truly ever be under these conditions. I worry about my work being stolen and fed into AI sources. I worry that there is no future for me as a creative person. I don't quite feel comfortable sitting here and saying "I hate AI", and having that be the end of the statement. But then there is always a visceral reaction within me, an instant urge to blurt it out every time the topic arises. I hate AI. During today's class discussion, one classmate worded it exactly as I think fits. I specifically hate Generative AI. Artificial Intelligence outside of this has existed (I think) since computers have. There's nothing to hate about computers generating code in video games or Excel sheets. I hate the parts of AI that seem to encourage us to let go of creativity and interpretation, individuality, original thought. I hate the idea that people will want to think less. 
+
+### 2. What are your hopes for the future of AI?
+As AI continues to become more and more prominent, I hope that it also becomes, in ways, more regulated. I feel like it should be an opt-in, opt-out system, at least when it comes to volunteering our work to be entered into these databases that generative AI sources from. I kind of hope that we can look back on these 'early' days in the same way that we look back on the looser regulations of driving, for example. Like how we hear our parents talk about no seatbelts in a car, or smoking in restaurants and on planes, and think "Oh my god, that's so dangerous." I just hope that everything right now is the kind of sucky, dangerous, rights-violating, environmentally-dangerous phase of AI, where we don't quite know what we're doing, and that eventually we figure it out. 
