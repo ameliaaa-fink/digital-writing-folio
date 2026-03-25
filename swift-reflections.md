@@ -18,6 +18,7 @@ Immediately, this class is not what I expected, but I wouldn't say this is a bad
 excited. I've never coded before, so my priority is definitely in learning and improving in this aspect. I hope to give myself a challenge 
 in this way, and to open up opportunities for expanding my practice. 
 
+
 # Week 2: Swift Reflections 
 
 ## Wed (11/03/26)
@@ -35,3 +36,8 @@ As AI continues to become more and more prominent, I hope that it also becomes, 
 ## Thurs (19/03/26)
 ### Reflect upon the importance of tracking tools of making (e.g., for iterative purposes, for troubleshooting, as research capture situated in a particular time (since tech evolves so quickly), to network/pool knowledge with peers, to situate ideas in relation to the field).
 There's definitely importance in the act of self-archiving your own work. I find myself tracking the progress of my work most of the time in a passive way, simply through my use of Google Docs, which records a history of any document for which you can go back on and restore old versions of. I do, however, do it in a more conscious way with bigger projects or assignments. I like to keep multiple documents on my computer of multiple versions of a drafts for a single project. This means, later, I can look between drafts 1, 2, 3 and the final, and see exactly what had changed throughout. I think this kind of archiving is important for any writer, and most do it pretty unconsciously I'd assume. Not only can you look back on old drafts, analysing how you might've improved and potentially restoring/making a callback to something that worked, but it can also be used to create a network of peer feedback and workshopping. You can create folders containing plans as a way to keep track of your ideas as they develop. And years from now, you can look back. And years from them, yet again. I like being able to know who I was compared to who I am as a writer, to remember what was once important to me, to reflect on my developing skill. I like knowing who I am and what I write, and in immortalising what I write I immortalise who I am/was.
+
+# Week 4
+## Wed (25/03/26)
+### Can you analyse the architecture (layers, strucutre, interactions) of the hypetext piece you read above in these terms?
+
