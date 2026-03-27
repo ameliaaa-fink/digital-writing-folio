@@ -1,6 +1,6 @@
-# digital-writing-folio
+# Digital-writing-folio
 
-## Swift Reflection: Biographical Note
+## Biographical Note (27/03/26)
 
 ### 1. //What types of writing do you do (e.g. fiction, nonfiction, poetry)?//
 I mainly focus on fiction writing, gearing towards the speculative-fiction, dystopian, and magical realism genres. Through character-driven narratives and immersive world-building, I love exploring themes of humanity, love, and the ugly, complex, beautiful human experience. A lot of what I write is inspired by texts and authors that fall into these themes: Hanya Yanaghiara and Margaret Atwood, some of my favourites, for example. I'm currently working on a novel project which is perfectly representative of that, but I also enjoy shorter form fiction and non-fiction, which ted to be heavy on the magical realism. As a generl rule of thumb, I always with themes wrapped under a heavy blanket of metaphors, symbolism and sometimes a touch of mythological referencing. 
