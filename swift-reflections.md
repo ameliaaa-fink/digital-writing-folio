@@ -58,4 +58,3 @@ If we consult Ryan's (2006) diagram on the interactive architectures of non-line
 
 ## Thurs (26/03/26)
 ### Thinking about whatever seeds of ideas are gestating in terms of your main digital project for this class, situate your potential digital work both at a personal level and within a broader context/politics. What are your motivators for telling your particular story in the digital space? Does your emerging digital work speak to a broader ethics or politics, or does it relate to a specific community or movement, or else to theory or a certain tradition?
-
