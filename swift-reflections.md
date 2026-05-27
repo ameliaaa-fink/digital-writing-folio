@@ -58,3 +58,9 @@ If we consult Ryan's (2006) diagram on the interactive architectures of non-line
 
 ## Thurs (26/03/26)
 ### Thinking about whatever seeds of ideas are gestating in terms of your main digital project for this class, situate your potential digital work both at a personal level and within a broader context/politics. What are your motivators for telling your particular story in the digital space? Does your emerging digital work speak to a broader ethics or politics, or does it relate to a specific community or movement, or else to theory or a certain tradition?
+
+# Week 12
+## Wed (27/05/26)
+### Key learning moments (“light‑bulb” moments) - what were they? Identify and describe. Think about insights from weekly topics, in-class exercises, group and personal creative process. Connections to scholarly contexts from course readings -deepen your reflection through evaluating via course readings. Reflection on how your work fits into the broader field of digital writing practice - where will you take this?
+
+I really think the root of my project I can link back to Week 2, when I was first introduced to the ["Crawl Space"](https://crawlspace.cool/) archive of digital works. I've specifically referenced Omayeli Arenyeka's _Grief Found Me_ in both asssesment one and two, and in many of my project iterations as a strong source of inspiration. When I first explored it, I was really intrigued by its format as a digital work and e-lit piece. Later, when we looked at Ergotic literature 
