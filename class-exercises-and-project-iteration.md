@@ -49,4 +49,9 @@ My focus for this week is mainly to complete that second goal I established for 
 that have pushed back this timeline, I do still hope to have the main functions of the desktop complete, one which I can use for the rest of my 
 project as a foundation of the coding for each page.
 
-
+## Week 11
+# Priority List
+1. Finish Bitsy game. Two pages complete but just need to finish up some broken mechanics and publish.
+2. Finish dialogue with Kyle. Only prevented by the fact my padding is messed up. Either fix this or find an alternative solution, maybe expand the size of the messenger template background? Lots of research and trial and error required but once this is done it's a lot of copy/paste the code with changes in dialogue for each page.
+3. Figure out function for error pop up and go back to add files.
+4. Decide whether or not to scrap extra chat box messages. I think the time crunch is too much to include this unfortunately. Plus not enough pre-planning so it would require writing out a script for them too.
