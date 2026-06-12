@@ -27,55 +27,25 @@ seeing some similar things in the early iterations of my classmates' projects, s
 My goal is that by the end of week 8 or the start of 9 I will have put more research into this and started testing and troubleshooting it. 
 It's important to me that I can figure these little things out, because having all of them done will put me in a much better place in terms 
 of setting me up for really investing time into the narrative and execution of the code. Really, it's these small queries that I have and 
-functions which I don't yet know how to do (because of inexperience with coding) that hold me back. As soon as I figure them out, a lot of it 
-will be copy-and-paste of the code, which means I can focus on timig and the appearance of specific pages. 
+functions which I don't yet know how to do (because of inexperience with coding) that hold me back. As soon as I figure them out, a lot of it will be copy-and-paste of the code, which means I can focus on timig and the appearance of specific pages. 
 
 ## Week 7
 ## Wed (22/04/26): Check-in
 I'm writing this as a general update and way to gather my thoughts as I enter the beginning stages of planning and making my project. Next 
-week, (29/04) I will need to have my presentation for Assignment Two complete; including a map of that outlines my planning, scheduling, and 
-any thoughts involving my project, an early prototype with at least four complete or drafted pages, as well as reflections of my progress and
-any challenges or changes I faced in these early stages. As of writing this, I've only completed a very rough experiment with twine, 
-familiarising myself with the code and system. For this, I created a short, converstional choice-based narrative. I do not plan to use this as
-my final project; the concept was very simple and my initial coding was done under the assumption that I would not expand upon or refine this
-particular narrative. I do, however, have an idea for my final work of E-lit. I plan to piggyback off the aesthetic and story that I begun 
-brainstorming in my coding playground. I want to keep the same retro aesthetic of a 90s windows computer, reusing some of the visual code 
-and functions for pop-up buttons and colours etc. However, I'm going to expand furhter on the small bits of story that were included in my 
-coding playground.
+week, (29/04) I will need to have my presentation for Assignment Two complete; including a map of that outlines my planning, scheduling, and any thoughts involving my project, an early prototype with at least four complete or drafted pages, as well as reflections of my progress and any challenges or changes I faced in these early stages. As of writing this, I've only completed a very rough experiment with twine, familiarising myself with the code and system. For this, I created a short, converstional choice-based narrative. I do not plan to use this as my final project; the concept was very simple and my initial coding was done under the assumption that I would not expand upon or refine this particular narrative. I do, however, have an idea for my final work of E-lit. I plan to piggyback off the aesthetic and story that I begun brainstorming in my coding playground. I want to keep the same retro aesthetic of a 90s windows computer, reusing some of the visual code and functions for pop-up buttons and colours etc. However, I'm going to expand furhter on the small bits of story that were included in my coding playground.
 
 
 ## Thurs Check-in & Ideas (23/04/26)
-I want the narrative to follow the player navigating a computer which they got secondhand and are starting up for the first time. Immediately, 
-the apps, files and history of the previous owner remain on the computer (whether because they did not bother or actually couldn't reset it 
-remains to be seen). Slowly, the player begins to discover the previous owners' life and the final days/weeks of them owning this computer,
-and through that, a darker, more confusing entity which seems to have possessed/hacked the computer. It is unclear whether this is an actual
-person, a stalker pehrps, or something more superneratural, like a spiritual or extra-terrestrial entity. This will be discovered via two 
-main parts which the player can access: the files and the DMs.\
-The files will consist mainly of old digi-cam images which give detail to the previous owners' (Lou) life. Things like concert images, travel, 
-people (faces blurred), and landscapes. Over time, these files will eventually be corrupted, and clicking on them or trying to restore them
-can trigger error pop-ups.\
-The DMs will be seperated again into two sections: active and non-active. The non-active messages are just a streamline of messages from just 
-two people which can be scrolled through, but remain the same the entire time. There will be one person who is actively messaging the player, 
-Lou's best friend, Kyle. They will try to send messages and discover that Lou has given their laptop away (assuming that they haven't signed 
-in on their new computer yet) and from there, start talking to the player. This will include small dialogue options but ultimately not add 
-much difference to the story (illusion of choice). As the player talks to Kyle, the computer will start glitching with pop-ups and corrupting 
-some files, prompting the player to seek help from Kyle, who will explain that Lou had similar issues that he might be able to help with. 
-As the story progresses, the player will begin to suspect Kyle, as he is getting them to do some things that are suspicious, and when they 
-ask him about this, the computer shuts down into a bluescreen that the player cannot exit out of.\
+I want the narrative to follow the player navigating a computer which they got secondhand and are starting up for the first time. Immediately, the apps, files and history of the previous owner remain on the computer (whether because they did not bother or actually couldn't reset it remains to be seen). Slowly, the player begins to discover the previous owners' life and the final days/weeks of them owning this computer, and through that, a darker, more confusing entity which seems to have possessed/hacked the computer. It is unclear whether this is an actual person, a stalker pehrps, or something more superneratural, like a spiritual or extra-terrestrial entity. This will be discovered via two main parts which the player can access: the files and the DMs.\
+
+The files will consist mainly of old digi-cam images which give detail to the previous owners' (Lou) life. Things like concert images, travel, people (faces blurred), and landscapes. Over time, these files will eventually be corrupted, and clicking on them or trying to restore them can trigger error pop-ups.\
+
+The DMs will be seperated again into two sections: active and non-active. The non-active messages are just a streamline of messages from just two people which can be scrolled through, but remain the same the entire time. There will be one person who is actively messaging the player, Lou's best friend, Kyle. They will try to send messages and discover that Lou has given their laptop away (assuming that they haven't signed in on their new computer yet) and from there, start talking to the player. This will include small dialogue options but ultimately not add much difference to the story (illusion of choice). As the player talks to Kyle, the computer will start glitching with pop-ups and corrupting some files, prompting the player to seek help from Kyle, who will explain that Lou had similar issues that he might be able to help with. As the story progresses, the player will begin to suspect Kyle, as he is getting them to do some things that are suspicious, and when they ask him about this, the computer shuts down into a bluescreen that the player cannot exit out of.\
 A lot of my plans for the narrative have been completed on Miro, [here](https://au.miro.com/app/board/u3jVOfwbJJo=/?share_link_id=278707020465).\
-For a lot of the aethetics and ideas for my project, I've been inspired mainly by _Grief Found Me_ by Omeyli Arenyeka, which we looked at back
-at the start of the semester, as well as the 2015 game _Emily is Away_ by Kyle Seeley. The replication of desktop files in the former is where
-I took a lot of inspiration in terms of the files in my own project; I loved how the images and folders of these were used to tell a story about 
-the author, in this case, but in my case, the owner of the computer whose the player is searching through. I had the idea of certain images and 
-files getting 'corrupted' which I thought would make the story progression more interesting. This idea somewhat came from the 2017 visual novel 
-game _Doki Doki Literature Club_ by Team Salvato, wherein the player's files on their own computer can be altered and accessed to further immersion
-into the horror aspects. Obviously my project won't be able to do this, but I do want to somewhat honor the notion to increase reader interaction. 
-_Emily is Away_ inspired the other key part of my narrative: the messages with Kyle. This is the main part of the story, and I really enjoy the 90s
-to early 2000s aesthetic of chatbox messages and DMs to express the progression of a protagonist's life and their chaning relationships with other 
-characters. I want to replicate the multiple-choice dialogue and force-input typing in _Emily is Away_ in my own project, as I think this is an 
-easy way to increase user interaction while furthering the story.\
-My focus for this week is mainly to complete that second goal I established for myself earlier. For my presentation, I need to have the four 
-complete pages prepped. Within these, I said I wanted to have the bones of the code done, and while I've run into some problems with coding 
+
+For a lot of the aethetics and ideas for my project, I've been inspired mainly by _Grief Found Me_ by Omeyli Arenyeka, which we looked at back at the start of the semester, as well as the 2015 game _Emily is Away_ by Kyle Seeley. The replication of desktop files in the former is where I took a lot of inspiration in terms of the files in my own project; I loved how the images and folders of these were used to tell a story about the author, in this case, but in my case, the owner of the computer whose the player is searching through. I had the idea of certain images and files getting 'corrupted' which I thought would make the story progression more interesting. This idea somewhat came from the 2017 visual novel game _Doki Doki Literature Club_ by Team Salvato, wherein the player's files on their own computer can be altered and accessed to further immersion into the horror aspects. Obviously my project won't be able to do this, but I do want to somewhat honor the notion to increase reader interaction. _Emily is Away_ inspired the other key part of my narrative: the messages with Kyle. This is the main part of the story, and I really enjoy the 90s to early 2000s aesthetic of chatbox messages and DMs to express the progression of a protagonist's life and their chaning relationships with other characters. I want to replicate the multiple-choice dialogue and force-input typing in _Emily is Away_ in my own project, as I think this is an easy way to increase user interaction while furthering the story.\
+
+My focus for this week is mainly to complete that second goal I established for myself earlier. For my presentation, I need to have the four complete pages prepped. Within these, I said I wanted to have the bones of the code done, and while I've run into some problems with coding 
 that have pushed back this timeline, I do still hope to have the main functions of the desktop complete, one which I can use for the rest of my 
 project as a foundation of the coding for each page.
 
